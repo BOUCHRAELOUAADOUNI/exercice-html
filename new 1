@@ -1,22 +1,9 @@
-<doctype html>
+<!DOCTYPE html>
 <html>
-<title>formulaire</title>
-<meta charset="utl-8">
+<head>
+<title>CV de bouchra </title>
 </head>
 <body>
-<h1>formulaire</h1>
-<fieldset>
-<legend>informations personnelles</legend>
-<form>
 <pre>
-nom:
-<input type="text" name="nom" size="40" maxlength="40">
-prénom:
-<input type="text" name="prénom" size="40" maxlength="40">
-address:
-<input type="text" name="adress" size="40" maxlength="40">
-age:
-<input type="text" name="age" size="40" maxlength="40">
-</pre>
-</form>
-<form action=
+
+
